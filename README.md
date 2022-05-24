@@ -2,7 +2,7 @@
 
 Аналог AppStore, организованный с помощью UITabBarController включающий в себя три ViewController: 'Today', 'Apps', 'Search' 
 
-В проекте использован 'SDWebImage'
+В проекте использован MVC + фреймворк 'SDWebImage'
 
 <img width="383" alt="Снимок экрана 2022-05-24 в 14 45 33" src="https://user-images.githubusercontent.com/105271727/170027333-a51a9fd2-f70d-4662-be35-f5943aa3a7a6.png">
 
