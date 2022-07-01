@@ -38,9 +38,9 @@ An example of a button animation made by analogy with the AppStore
 # Applied:
 
 - UISearchController
-- UICollectionViewController ( reusable -> BaseListController ) 
+- UICollectionViewControlle
 - UILabel
-- Timer in SearchBar ( таймер позволяет указать интервал времени за который будет отображена ячейка с введенным приложением )
+- Timer in SearchBar
 
 Search Engine 
 
